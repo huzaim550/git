@@ -11,3 +11,5 @@ function changeColorBlack() {
 function colorReset() {
   document.body.style.backgroundColor = "white";
 }
+
+
